@@ -2,6 +2,8 @@
 
 A private Python package index hosted on GitHub Pages.
 
+**Hosted on:** https://azoght.github.io/pypackage-repo-azoght/
+
 ## 🚀 Getting Started
 
 To deploy this package index to GitHub Pages:
@@ -16,7 +18,7 @@ This will enable the GitHub Actions workflow to deploy your package index to Git
 
 ## 🌐 Live Index
 
-Visit: [URL_TO_YOUR_REPO]
+Visit: [https://github.com/azoght/pypackage-repo-azoght]
 
 ## 📦 Install Packages
 
