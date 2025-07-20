@@ -23,7 +23,7 @@ Visit: [https://github.com/azoght/pypackage-repo-azoght]
 ## 📦 Install Packages
 
 ```bash
-pip install <package_name> --extra-index-url URL_TO_YOUR_REPO
+pip install <package_name> --extra-index-url https://github.com/azoght/pypackage-repo-azoght
 ```
 
 ## 🚀 Available Packages
